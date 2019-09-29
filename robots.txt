@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eoghooshai.sandeep4774.com/sitemap.xml
